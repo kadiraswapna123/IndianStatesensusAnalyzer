@@ -1,0 +1,5 @@
+C:\Data\IndianStateCensusAnalizer\IndianStateCensusAnalizer\obj\Debug\net6.0\IndianStateCensusAnalizer.csproj.AssemblyReference.cache
+C:\Data\IndianStateCensusAnalizer\IndianStateCensusAnalizer\obj\Debug\net6.0\IndianStateCensusAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\IndianStateCensusAnalizer\IndianStateCensusAnalizer\obj\Debug\net6.0\IndianStateCensusAnalizer.AssemblyInfoInputs.cache
+C:\Data\IndianStateCensusAnalizer\IndianStateCensusAnalizer\obj\Debug\net6.0\IndianStateCensusAnalizer.AssemblyInfo.cs
+C:\Data\IndianStateCensusAnalizer\IndianStateCensusAnalizer\obj\Debug\net6.0\IndianStateCensusAnalizer.csproj.CoreCompileInputs.cache
